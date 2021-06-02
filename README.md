@@ -1,2 +1,3 @@
-# Ecommerce-website
-This is an eCommerce website of working of HTML, CSS , JavaScript and PHP and MY SQL.
+# DBMS-ecommerce
+This project is for DBMS module
+need to add new admin table to db
